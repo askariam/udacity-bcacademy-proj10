@@ -52,7 +52,7 @@ I used two Rinkeby Accounts for this project:
 ## OpenSea StoreFront & Etherscan Links:
 1. For the Owner: [Owner StoreFront](https://rinkeby.opensea.io/accounts/0x137eb8dec479a6d66b6d7868315956efaf12aac1)
 2. For the Buyer: [Buyer StoreFront](https://rinkeby.opensea.io/accounts/0x877c58b35660053f2da630f94acd9343f8d8e555) 
-3. Etherscan: [Buyer StoreFront](https://rinkeby.etherscan.io/address/0x4ef4C3D4Cb62783196bEf272474042Ea3270F5B5)
+3. Etherscan: [Etherscan Contract Link](https://rinkeby.etherscan.io/address/0x4ef4C3D4Cb62783196bEf272474042Ea3270F5B5)
 
 
 ## Versions
