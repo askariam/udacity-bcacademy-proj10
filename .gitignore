@@ -1,0 +1,9 @@
+.secret
+.secret2
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/contracts
+build
+
+# Dependency directories
+node_modules/
