@@ -59,7 +59,7 @@ All the ABIs of the contracts can be found after executing the command :
 ```
 truffle compile —-all
 ```
-Under the directory
+Under the directory eth-contracts/build/contracts
 
 ## Versions
 
