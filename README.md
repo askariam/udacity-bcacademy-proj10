@@ -54,6 +54,12 @@ I used two Rinkeby Accounts for this project:
 2. For the Buyer: [Buyer StoreFront](https://rinkeby.opensea.io/accounts/0x877c58b35660053f2da630f94acd9343f8d8e555) 
 3. Etherscan: [Etherscan Contract Link](https://rinkeby.etherscan.io/address/0x4ef4C3D4Cb62783196bEf272474042Ea3270F5B5)
 
+## ABIs
+All the ABIs of the contracts can be found after executing the command : 
+```
+truffle compile —-all
+```
+Under the directory
 
 ## Versions
 
@@ -74,4 +80,3 @@ I used two Rinkeby Accounts for this project:
 * [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html)
 * [Docker](https://docs.docker.com/install/)
 * [ZoKrates](https://github.com/Zokrates/ZoKrates)
-
